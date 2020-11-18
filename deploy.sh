@@ -1,8 +1,8 @@
 #! /bin/bash
 
-HOME=~/TRClient2
-DEPLOY=${HOME}/Deploy
-RELEASE=${HOME}/Release
+HOME="~/TRClient2"
+DEPLOY="${HOME}/Deploy"
+RELEASE="${HOME}/Release"
 PASSWD="PWD"
 
 
